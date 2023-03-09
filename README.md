@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jemichaud (Jim)
-- 👀 I’m interested in SQL Server, VB.Net, MongoDB
-- 🌱 I’m currently learning MongoDB connecting with VB.net and using MongoDB
+- 👀 I’m interested in SQL Server, VB.Net, MongoDB, HTML and Angular
+- 🌱 I’m currently learning HTML and Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
